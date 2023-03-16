@@ -8,8 +8,22 @@ Born in Russaia,
 
                         That's all folks!
 
-Wasseem Nadar
+**Wasseem Nadar**
+
+*None others*
+
 ---
+
+
 ### Case Study Content
-To be provided in the near future.
+
+Check this [wikilink](https://en.wikipedia.org/wiki/Vitalik_Buterin) to find the content.
+
+* Do the research
+* Publish the report
+
+End of report.
+> Can't fix fucked
+
+
 
